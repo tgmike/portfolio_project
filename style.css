@@ -2,8 +2,12 @@
 ul {
     list-style: none;
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-around;
 }
 li {
     margin: 25px 55px 15px 55px;
+}    
+
+body {
+    font-family: 'Comic Sans MS', sans-serif;
 }
