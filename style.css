@@ -11,3 +11,8 @@ li {
 body {
     font-family: 'Comic Sans MS', sans-serif;
 }
+
+nav  ul li a {
+    text-decoration: none;
+    color: #00080;
+}
